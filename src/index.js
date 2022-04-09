@@ -6,7 +6,7 @@ import "./index.css";
 import * as serviceWorker from "./serviceWorker";
 
 b2cauth.initialize({
-    instance: "https://login.microsoftonline.com/6ae2c896-b2ab-435f-8566-cb73809426a9",
+    instance: "https://login.microsoftonline.com/6ae2c896-b2ab-435f-8566-cb73809426a9/",
     // tenant: "uoksetu.onmicrosoft.com",
     tenant: "distributedproject.onmicrosoft.com",
     signInPolicy: "B2C_1_react_signup",
