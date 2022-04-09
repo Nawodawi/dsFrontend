@@ -11,7 +11,8 @@ import Axios from "axios";
 const { Header, Content, Footer } = Layout;
 const auth = new Auth();
 
-const BASE_URL = "https://setu-api.azurewebsites.net";
+// const BASE_URL = "https://setu-api.azurewebsites.net";
+const BASE_URL = "https://dsbackend.azurewebsites.net";
 
 const USERS_API_URL = BASE_URL + "/students";
 const FILE_UPLAOD_URL = BASE_URL + "/reports/upload";
