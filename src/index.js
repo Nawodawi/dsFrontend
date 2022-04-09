@@ -6,7 +6,7 @@ import "./index.css";
 import * as serviceWorker from "./serviceWorker";
 
 b2cauth.initialize({
-    instance: "https://login.microsoftonline.com/distributedproject.onmicrosoft.com/v2.0/.well-known/openid-configuration",
+    instance: "https://distributedproject.onmicrosoft.com/",
     // tenant: "uoksetu.onmicrosoft.com",
     tenant: "distributedproject.onmicrosoft.com",
     signInPolicy: "B2C_1_react_signup",
