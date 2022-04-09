@@ -11,7 +11,7 @@ b2cauth.initialize({
     tenant: "distributedproject.onmicrosoft.com",
     signInPolicy: "B2C_1_react_signup",
     // applicationId: "1278766e-5c26-4964-842d-6f5f50494992",
-    applicationId: "5da457d6-7ec6-4433-9d56-4490a8c1ecb7",
+    applicationId: "998cf93e-6404-42e8-80a4-bab5c302d432",
     cacheLocation: "sessionStorage",
     // scopes: ["https://uoksetu.onmicrosoft.com/api/user_impersonation"],
     scopes: ["https://distributedproject.onmicrosoft.com/api/user_impersonation"],
